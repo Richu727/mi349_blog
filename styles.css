@@ -1,5 +1,17 @@
 body {
     background-color: #919191;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    max-width: 800px;
+    margin: 0 auto;
+    padding: 0 20px;
+    font-family: Arial, sans-serif;
+    line-height: 1.6;
+}
+
+header, nva, .blogpost {
+    width: 100%
 }
 
 .blogpost {
@@ -16,4 +28,5 @@ h2 {
 
 p {
     color: #eeff00;
+    margin-bottom: 30px;
 }
