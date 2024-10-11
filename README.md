@@ -5,7 +5,7 @@ The index.html file should include two original blog posts (on any topic you'd l
 The about.html file should include a bio of the author.
   The bio should include paragraphs, at least one list, and one image.
 In contact.html, create a contact form with the following fields:
-  For now, just add a heading to your contactd page. We'll add more to this page in the next lab.
+  For now, just add a heading to your contact page. We'll add more to this page in the next lab.
 Make sure the structure and typography are marked up using the proper HTML5 tags.
   Hint: there are additional tags for dates, authors, and other metadata associated with content--check the documentation.
 Both of your HTML pages should validate.
