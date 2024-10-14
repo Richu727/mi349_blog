@@ -54,7 +54,7 @@ p {
 .article-image{
     float: right;
     margin: 0 0 10px 15px;
-    max-width: 300px;
+    max-width: 70%;
     height: auto;
     border-radius: 16px;
 }
