@@ -56,4 +56,5 @@ p {
     margin: 0 0 10px 15px;
     max-width: 300px;
     height: auto;
+    border-radius: 16px;
 }
