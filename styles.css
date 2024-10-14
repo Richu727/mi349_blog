@@ -58,3 +58,15 @@ p {
     height: auto;
     border-radius: 16px;
 }
+
+.content-wrapper {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 20px;
+}
+.left-column, .right-column {
+    width: 48%;
+}
+.right-column ul {
+    padding-left: 20px;
+}
