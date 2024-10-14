@@ -50,3 +50,10 @@ p {
     color: #000000;
     margin-bottom: 30px;
 }
+
+.article-image{
+    float: right;
+    margin: 0 0 10px 15px;
+    max-width: 300px;
+    height: auto;
+}
