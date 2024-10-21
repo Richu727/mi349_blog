@@ -27,7 +27,7 @@ nav a {
     color: #333;
 }
 
-.blogpost {
+.blogpost, .newsletter-signup {
     background-color: #f9f9f9;
     border-radius: 8px;
     padding: 20px;
